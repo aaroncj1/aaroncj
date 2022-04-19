@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Aaron Jones. I am a Java Software Engineer skilled in created REST APIs, primarily in the SpringBoot framework.
+Hi, my name is Aaron Jones. I am a Java Software Engineer skilled in created REST APIs, primarily in Java SpringBoot.
 
 I am interested in Bitcoin, Writing Quality Code, and Test Driven Development. 
 

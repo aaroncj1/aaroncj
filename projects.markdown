@@ -18,7 +18,7 @@ This is an older project I started awhile ago. It was built with Java Springboot
 
 ## [My Portfolio Site][portfolio-site]
 
-This Site! This is my newest project. I wanted to have a site to showcase my resume and the projects I have worked on. This was created using Jekyll Framework and it is hosted on an nginx server.
+This Site! I wanted to have a site to showcase my resume and the projects I have worked on. This was created using Jekyll Framework and it is hosted on an nginx server.
 
 [mining-api]: https://github.com/aaroncj1/btcmininginfo
 [mining-api-pages]: https://aaroncj1.github.io/btcmininginfo/
